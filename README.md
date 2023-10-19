@@ -21,4 +21,4 @@ To run the programs, you need to have a C++ compiler, such as GCC or Clang.
 
 ## Author
 
-This repository is created and maintained by Rafael
+This repository is created and maintained by Carbit2173
